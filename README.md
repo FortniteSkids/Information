@@ -1,2 +1,1 @@
-# Information
-What is Fortnite Skids?
+<h1 align="center">What is FortniteSkids</h1>
